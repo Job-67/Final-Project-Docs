@@ -1,0 +1,7 @@
+- Scrollytelling (scroll + storytelling)
+- Parallax Scrolling
+- Micro-interactions
+- WebGL + 3D Experiences
+- Bentogrids
+- Glassmorphism
+- Typography
